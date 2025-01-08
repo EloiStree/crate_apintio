@@ -1,3 +1,8 @@
+IID & 🍺.io: https://buymeacoffee.com/apintio - https://github.com/EloiStree/IID - https://github.com/EloiStree/apint.io
+
+--------------------------------------
+
+
 # crate_apintio
 Rust toolbox of apintio
 using Rust Package of IID.
